@@ -654,7 +654,6 @@ main {}
 	text-underline-offset: 10px;color: #222;
 }
 .news_wrap .tabs_wrap .btn_news_more {font-size: 18px;font-weight: 700;}
-.news_wrap .contents_wrap {background: lightblue;}
 
 .news_wrap .contents_wrap .content_box {
 	display: none;
