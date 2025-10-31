@@ -1094,14 +1094,8 @@ main {
   font-size: 18px;
   font-weight: 700;
 }
-.faculty_wrap .faculty_swiper .txt_box span {
-}
-.faculty_wrap {
-}
 
 /* News */
-.news_wrap {
-}
 .news_wrap .tabs_wrap {
   display: flex;
   justify-content: space-between;
